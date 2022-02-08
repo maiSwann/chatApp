@@ -6,6 +6,8 @@ Chat app is a simple iOS app to chat locally with a friend.
 
 The only major feature is to be able to communicate with a friend on a same device.
 
+<img src="feature1.png" width="300"> <img src="feature2.png" width="300">
+
 # Building the App
 
 ### Requirements
